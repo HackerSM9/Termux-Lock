@@ -1,2 +1,0 @@
-# PY
-print(”Hi")
