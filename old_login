@@ -1,5 +1,3 @@
-#!/data/data/com.termux/files/usr/bin/sh
-
 if [ $# = 0 ] && [ -f $PREFIX/etc/motd ] && [ ! -f ~/.hushlogin ]; then
 	cat $PREFIX/etc/motd
 fi
